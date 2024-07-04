@@ -1,12 +1,13 @@
-import React from 'react'
+// App.jsx
+import React from 'react';
 import Card from './Components/Card.jsx';
 
 function App() {
   return (
     <div>
-      <Card/>
+      <Card />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
